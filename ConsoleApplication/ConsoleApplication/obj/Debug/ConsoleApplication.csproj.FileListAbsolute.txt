@@ -1,0 +1,7 @@
+C:\Projects\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Projects\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Projects\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Projects\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Projects\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Projects\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Projects\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
